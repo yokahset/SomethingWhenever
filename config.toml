@@ -37,6 +37,16 @@ theme = "DoIt"
     url = "/categories/"
     title = ""
     weight = 3
+  [[menu.main]]
+    identifier = "series"
+    pre = ""
+    post = ""
+    name = "Series"
+    url = "/series/"
+    title = ""
+    weight = 3
+  
+  
 
 
 [params]
@@ -195,7 +205,8 @@ theme = "DoIt"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
-      social = true
+      #                                                   EDIT SOCIAL MEDIA AND ENABLE TRUE FLAG
+      social = false
       #  disclaimer (HTML format is supported)
       disclaimer = ""
     # Home page posts
@@ -209,12 +220,12 @@ theme = "DoIt"
 
   # Social config about the author
   [params.social]
-    GitHub = "xxxx"
+    GitHub = ""
     Linkedin = ""
-    Twitter = "xxxx"
-    Instagram = "xxxx"
-    Facebook = "xxxx"
-    Telegram = "xxxx"
+    Twitter = ""
+    Instagram = ""
+    Facebook = ""
+    Telegram = ""
     Medium = ""
     Gitlab = ""
     Youtubelegacy = ""
@@ -278,7 +289,7 @@ theme = "DoIt"
     Linktree = ""
     QQ = ""
     QQGroup = ""
-    Email = "xxxx@xxxx.com"
+    Email = ""
     RSS = true # 
 
   #  Page config

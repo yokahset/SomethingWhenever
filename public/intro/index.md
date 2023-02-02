@@ -1,24 +1,5 @@
----
-authors: [Andrew]
-title: "Something, Whenever."
-subtitle: "This post, right now."
-description: "Accepting that wanting something to be better doesn't mean denying something good right now."
-series: ["Website History"]
-tags: ["Updates", "Website", "DIY", "Coding"]
+# Something, Whenever.
 
-categories: ["Announcements"]
-
-date: 2023-01-21T00:41:02-08:00
-draft: false
-
-hiddenFromHomePage: false
-hiddenFromSearch: false
-
-featuredImage: ""
-featuredImagePreview: ""
-
-
----
 
 # What is this website?
 
