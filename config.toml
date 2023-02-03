@@ -172,7 +172,7 @@ theme = "DoIt"
     #  recently updated posts settings
     [params.section.recentlyUpdated]
       enable = false
-      rss = false
+      rss = true
       days = 30
       maxCount = 10
 
@@ -206,7 +206,7 @@ theme = "DoIt"
       typeit = true
       # whether to show social links
       #                                                   EDIT SOCIAL MEDIA AND ENABLE TRUE FLAG
-      social = false
+      social = true
       #  disclaimer (HTML format is supported)
       disclaimer = ""
     # Home page posts
@@ -339,7 +339,7 @@ theme = "DoIt"
       # whether to enable the table of the contents
       enable = true
       #  whether to keep the static table of the contents in front of the post
-      keepStatic = true
+      keepStatic = false
       # whether to make the table of the contents in the sidebar automatically collapsed
       auto = true
     #  KaTeX mathematical formulas
