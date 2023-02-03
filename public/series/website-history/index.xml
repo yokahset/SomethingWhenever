@@ -3,12 +3,17 @@
         <title>Website History - Series - Something Whenever</title>
         <link>https://somethingwhenever.com/series/website-history/</link>
         <description>Website History - Series - Something Whenever</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Andrew@somethingwhenever.com (Andrew)</managingEditor>
-            <webMaster>Andrew@somethingwhenever.com (Andrew)</webMaster><lastBuildDate>Thu, 02 Feb 2023 00:41:02 -0800</lastBuildDate><atom:link href="https://somethingwhenever.com/series/website-history/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>
+                Andrew@somethingwhenever.com
+            </managingEditor>
+            <webMaster>
+                Andrew@somethingwhenever.com
+            </webMaster><lastBuildDate>Thu, 02 Feb 2023 00:41:02 -0800</lastBuildDate><atom:link href="https://somethingwhenever.com/series/website-history/" rel="self" type="application/rss+xml" /><item>
     <title>Something, Whenever.</title>
     <link>https://somethingwhenever.com/intro/</link>
     <pubDate>Thu, 02 Feb 2023 00:41:02 -0800</pubDate><author>
-                        <name>Andrew</name><uri>https://somethingwhenever.com</uri><email>Andrew@somethingwhenever.com</email></author><guid>https://somethingwhenever.com/intro/</guid>
+                        Andrew@somethingwhenever.com
+                    </author><guid>https://somethingwhenever.com/intro/</guid>
     <description><![CDATA[A website full of content whenever I feel like adding more. C&rsquo;mon in, let me tell you about it!]]></description>
 </item></channel>
 </rss>
