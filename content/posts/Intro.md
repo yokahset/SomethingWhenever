@@ -2,13 +2,14 @@
 authors: [Andrew]
 title: "Something, Whenever."
 subtitle: "This post, right now."
+summary: "A website full of content whenever I feel like adding more. C'mon in, let me tell you about it!"
 description: "Accepting that wanting something to be better doesn't mean denying something good right now."
 series: ["Website History"]
 tags: ["Updates", "Website", "DIY", "Coding"]
 
 categories: ["Announcements"]
 
-date: 2023-01-21T00:41:02-08:00
+date: 2023-02-02T00:41:02-08:00
 draft: false
 
 hiddenFromHomePage: false

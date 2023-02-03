@@ -10,8 +10,9 @@ authors: [Andrew]
 title: "{{ replace .Name "-" " " | title }}"
 
 subtitle: 
-description: 
 
+summary: ""
+description: 
 
 series: [""]
 categories: [""]
