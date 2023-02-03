@@ -2,7 +2,7 @@
 
 draft: false
 
-title: "Other People's Lives"
+title: "Other People's Lives by Dan Campbell"
 
 date: 2023-02-02T21:25:17-08:00
 
@@ -24,7 +24,7 @@ featuredImagePreview: "/images/featured/otherpeopleslivescover.jpg"
     
 ---
 
-# Introduction
+## Introduction
 
 *Other People's Lives* is an album Dan wrote during the Pandemic. 
 While the world stopped touring, he was both looking for a creative focus and source of income to try and keep the lights on.
@@ -50,12 +50,20 @@ Today (Friday Feb 3) and Fri March 3 are your next chances!
 
 &nbsp;
 
-{{< admonition type=tip title="Listen to the album here!" open=true >}}
+{{< admonition type=tip title="Listen to the album here!" open=false >}}
 <iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=5250220/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" seamless><a href="https://dan-campbell.bandcamp.com/album/other-people-s-lives">Other People’s Lives by Dan Campbell</a></iframe>
 {{< /admonition >}}
 Let's break it down song by song! 
 
-# *Conversations with the Flowers* 
+---
+
+## Track List
+
+> Other People's Lives features 10 songs, and runs for 35 minutes.
+
+
+
+### *Conversations with the Flowers* 
 
 {{< admonition type=info title="Lyrics (click to open)" open=false >}}
 [Verse 1]
@@ -145,10 +153,23 @@ Have a kickass day.
 See you soon. 
 
 {{< admonition type=warning title="DO NOT OPEN THIS" open=false >}}
+Wow, you didn't. 
+
 ![img](https://y.yarn.co/70a77fda-20d6-4e8e-bf99-32b4c8f56f59_text.gif)
 
 I can't believe *you*. 
 {{</ admonition >}}
 
+Have you ever wondered what a mermaid looks like?
+
+```python 
+def LookAtMermaid()
+    if (mermaidsExist == true):
+        GaspInHorror()
+    else:
+        return "Mermaids aren't real, BRO"
+
+```
+The key part of of a successful day is having access to the `SmokeThatWeed()` function. Make sure that's in a name-space you're comfortable with.     
 
 
