@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Album Talk - Series - Something Whenever</title>
+        <link>https://somethingwhenever.com/series/album-talk/</link>
+        <description>Album Talk - Series - Something Whenever</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Andrew@somethingwhenever.com (Andrew)</managingEditor>
+            <webMaster>Andrew@somethingwhenever.com (Andrew)</webMaster><lastBuildDate>Thu, 02 Feb 2023 21:25:17 -0800</lastBuildDate><atom:link href="https://somethingwhenever.com/series/album-talk/" rel="self" type="application/rss+xml" /><item>
+    <title>Other People&#39;s Lives by Dan Campbell</title>
+    <link>https://somethingwhenever.com/otherpeopleslives/</link>
+    <pubDate>Thu, 02 Feb 2023 21:25:17 -0800</pubDate><author>
+                        <name>Andrew</name><uri>https://somethingwhenever.com</uri><email>Andrew@somethingwhenever.com</email></author><guid>https://somethingwhenever.com/otherpeopleslives/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://i.imgur.com/kamHclTm.jpg" referrerpolicy="no-referrer">
+            </div><em>Other People&rsquo;s Lives</em> is the debut of my personal hero Dan &lsquo;Soupy&rsquo; Campbell releasing music under his own name. Let&rsquo;s talk about what makes this album so special, and why I can&rsquo;t get it out of my head.]]></description>
+</item></channel>
+</rss>
