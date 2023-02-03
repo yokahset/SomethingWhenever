@@ -172,7 +172,7 @@ theme = "DoIt"
     #  recently updated posts settings
     [params.section.recentlyUpdated]
       enable = false
-      rss = false
+      rss = true
       days = 30
       maxCount = 10
 
@@ -206,7 +206,7 @@ theme = "DoIt"
       typeit = true
       # whether to show social links
       #                                                   EDIT SOCIAL MEDIA AND ENABLE TRUE FLAG
-      social = false
+      social = true
       #  disclaimer (HTML format is supported)
       disclaimer = ""
     # Home page posts
@@ -339,9 +339,9 @@ theme = "DoIt"
       # whether to enable the table of the contents
       enable = true
       #  whether to keep the static table of the contents in front of the post
-      keepStatic = true
+      keepStatic = false
       # whether to make the table of the contents in the sidebar automatically collapsed
-      auto = true
+      auto = false
     #  KaTeX mathematical formulas
     [params.page.math]
       enable = true
@@ -387,7 +387,7 @@ theme = "DoIt"
       Twitter = true
       Facebook = true
       Linkedin = false
-      Whatsapp = true
+      Whatsapp = false
       Pinterest = false
       Tumblr = false
       HackerNews = false
@@ -395,19 +395,19 @@ theme = "DoIt"
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
       Pocket = false
       Digg = false
       Stumbleupon = false
       Flipboard = false
-      Weibo = true
+      Weibo = false
       Renren = false
-      Myspace = true
-      Blogger = true
+      Myspace = false
+      Blogger = false
       Baidu = false
       Odnoklassniki = false
-      Evernote = true
+      Evernote = false
       Skype = false
       Trello = false
       Mix = false
@@ -641,8 +641,8 @@ theme = "DoIt"
     enable = true
     # text strings used for Cookie consent banner
     [params.cookieconsent.content]
-      message = ""
-      dismiss = ""
+      message = "Hey there! We gotta ask if you're ok with having our cookies. We use those to help the site run smooth. Is that ok?"
+      dismiss = "Sure!"
       link = ""
 
   #  CDN config for third-party library files
@@ -694,7 +694,7 @@ theme = "DoIt"
 # Author config
 [author]
   name = "Andrew"
-  email = "andrewscotherrmann@gmail.com"
+  email = "Andrew@somethingwhenever.com"
   link = ""
   avatar = "https://en.gravatar.com/userimage/230785982/e87c2b57c4672231b780d5e41a6399d5.jpg?size=200"
   gravatarEmail = "andrewscotherrmann@gmail.com"

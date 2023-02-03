@@ -1,6 +1,28 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+
+draft: false
+
 date: {{ .Date }}
-draft: true
+
+
+authors: [Andrew]
+
+title: "{{ replace .Name "-" " " | title }}"
+
+subtitle: 
+description: 
+
+
+series: [""]
+categories: [""]
+tags: [""]
+
+
+hiddenFromHomePage: false
+hiddenFromSearch: false
+
+featuredImage: ""
+featuredImagePreview: ""
+    
 ---
 
