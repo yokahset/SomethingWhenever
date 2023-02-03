@@ -1,4 +1,4 @@
-baseURL = "http://somethingwhenever.com/"
+baseURL = "https://somethingwhenever.com/"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
@@ -696,7 +696,7 @@ theme = "DoIt"
 [author]
   name = "Andrew"
   email = "Andrew@somethingwhenever.com"
-  link = ""
+  link = "somethingwhenever.com"
   avatar = "https://en.gravatar.com/userimage/230785982/e87c2b57c4672231b780d5e41a6399d5.jpg?size=200"
   gravatarEmail = ""
 
