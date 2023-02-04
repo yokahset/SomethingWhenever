@@ -5,22 +5,25 @@ draft: false
 title: "Other People's Lives by Dan Campbell"
 
 date: 2023-02-02T21:25:17-08:00
+lastmod: 
 
 authors: [Andrew]
 
 subtitle: "Songs about people who aren't us" 
-description: "*Other People's Lives* is the debut of my personal hero Dan 'Soupy' Campbell releasing music under his own name. Let's talk about what makes this album so special, and why I can't get it out of my head." 
+description: "My Thoughts on the album 'Other People's Lives' by Dan Campbell" 
+summary: "*Other People's Lives* is the debut of my personal hero Dan 'Soupy' Campbell releasing music under his own name. Let's talk about what makes this album so special, and why I can't get it out of my head."
+
 
 series: ["Album Talk"]
 categories: ["Musical thoughts"]
 tags: ["Dan Campbell", "Soupy", "Songwriting", "Album", "Writing"]
 
 
-hiddenFromHomePage: true
+hiddenFromHomePage: false
 hiddenFromSearch: false
 
-featuredImage: "/images/featured/otherpeopleslivescover.jpg"
-featuredImagePreview: "/images/featured/otherpeopleslivescover.jpg"
+featuredImage: "https://i.imgur.com/kamHclT.jpg"
+featuredImagePreview: "https://i.imgur.com/kamHclTm.jpg"
     
 ---
 
@@ -28,7 +31,7 @@ featuredImagePreview: "/images/featured/otherpeopleslivescover.jpg"
 
 *Other People's Lives* is an album Dan wrote during the Pandemic. 
 While the world stopped touring, he was both looking for a creative focus and source of income to try and keep the lights on.
-Dan started offering song-writing packages where hw would interview you, and write / record a song for you. 
+Dan started offering song-writing packages where he would interview you, and write / record a song for you. 
 In hindsight, I desperately wish I did it. 
 I thought about doing it at the time, and I couldn't afford it, but man. 
 He'll probably never do this again, and that would've been so damn cool. 

@@ -1,4 +1,4 @@
-baseURL = "http://somethingwhenever.com/"
+baseURL = "https://somethingwhenever.com/"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
@@ -193,7 +193,7 @@ theme = "DoIt"
     [params.home.profile]
       enable = true
       # Gravatar Email for preferred avatar in home page
-      gravatarEmail = "andrewscotherrmann@gmail.com"
+      gravatarEmail = ""
       # URL of avatar shown in home page
       # Place your avatar file under static or assets directory
       # The filepath is relative to the static or assets directory
@@ -217,6 +217,7 @@ theme = "DoIt"
       #  replaced with hiddenFromHomePage in params.page
       # default behavior when you don't set "hiddenFromHomePage" in front matter
       defaultHiddenFromHomePage = false
+      
 
   # Social config about the author
   [params.social]
@@ -695,9 +696,9 @@ theme = "DoIt"
 [author]
   name = "Andrew"
   email = "Andrew@somethingwhenever.com"
-  link = ""
+  link = "somethingwhenever.com"
   avatar = "https://en.gravatar.com/userimage/230785982/e87c2b57c4672231b780d5e41a6399d5.jpg?size=200"
-  gravatarEmail = "andrewscotherrmann@gmail.com"
+  gravatarEmail = ""
 
 # Sitemap config
 [sitemap]

@@ -1,16 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Website History - Series - Something Whenever</title>
-        <link>http://somethingwhenever.com/series/website-history/</link>
+        <link>https://somethingwhenever.com/series/website-history/</link>
         <description>Website History - Series - Something Whenever</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>andrewscotherrmann@gmail.com (Andrew)</managingEditor>
-            <webMaster>andrewscotherrmann@gmail.com (Andrew)</webMaster><lastBuildDate>Sat, 21 Jan 2023 00:41:02 -0800</lastBuildDate><atom:link href="http://somethingwhenever.com/series/website-history/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Andrew@somethingwhenever.com (Andrew)</managingEditor>
+            <webMaster>Andrew@somethingwhenever.com (Andrew)</webMaster><lastBuildDate>Thu, 02 Feb 2023 00:41:02 -0800</lastBuildDate><atom:link href="https://somethingwhenever.com/series/website-history/" rel="self" type="application/rss+xml" /><item>
     <title>Something, Whenever.</title>
-    <link>http://somethingwhenever.com/intro/</link>
-    <pubDate>Sat, 21 Jan 2023 00:41:02 -0800</pubDate><author>
-                        <name>Andrew</name><uri>https://somethingwhenever.com</uri><email>Andrew@somethingwhenever.com[</email></author><guid>http://somethingwhenever.com/intro/</guid>
-    <description><![CDATA[What is this website?I&rsquo;ve been making creative content for a long time. For almost as long as I&rsquo;ve made it, that content has lacked a home. Whenever I&rsquo;ve gone to share the works I feel comfortable sharing, it&rsquo;s been linking people to files on Google Drive, and other silly things. No more.
-Something Whenever is a place for something whenever. That&rsquo;s all.
-It could be blog style content, photos, videos, songs I&rsquo;ve written, lyrics I liked, anything.]]></description>
+    <link>https://somethingwhenever.com/intro/</link>
+    <pubDate>Thu, 02 Feb 2023 00:41:02 -0800</pubDate><author>
+                        Andrew@somethingwhenever.com (Andrew)
+                    </author><guid>https://somethingwhenever.com/intro/</guid>
+    <description><![CDATA[A website full of content whenever I feel like adding more. C&rsquo;mon in, let me tell you about it!]]></description>
 </item></channel>
 </rss>
