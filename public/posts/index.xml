@@ -3,10 +3,6 @@
         <title>All Posts - Something Whenever</title>
         <link>https://somethingwhenever.com/posts/</link>
         <description>All Posts | Something Whenever</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>
-                Andrew@somethingwhenever.com
-            </managingEditor>
-            <webMaster>
-                Andrew@somethingwhenever.com
-            </webMaster><lastBuildDate>Thu, 02 Feb 2023 21:25:17 -0800</lastBuildDate><atom:link href="https://somethingwhenever.com/posts/" rel="self" type="application/rss+xml" /></channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Andrew@somethingwhenever.com (Andrew)</managingEditor>
+            <webMaster>Andrew@somethingwhenever.com (Andrew)</webMaster><lastBuildDate>Thu, 02 Feb 2023 21:25:17 -0800</lastBuildDate><atom:link href="https://somethingwhenever.com/posts/" rel="self" type="application/rss+xml" /></channel>
 </rss>
