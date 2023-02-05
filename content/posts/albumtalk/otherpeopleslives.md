@@ -1,6 +1,7 @@
 ---
 
-draft: false
+draft: true
+
 
 title: "Other People's Lives by Dan Campbell"
 
