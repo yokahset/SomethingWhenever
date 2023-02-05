@@ -5,6 +5,7 @@ subtitle: "This post, right now."
 summary: "A website full of content whenever I feel like adding more. C'mon in, let me tell you about it!"
 description: "Accepting that wanting something to be better doesn't mean denying something good right now."
 series: ["Website History"]
+series_weight: 1
 tags: ["Updates", "Website", "DIY", "Coding"]
 
 categories: ["Announcements"]
