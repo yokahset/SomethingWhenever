@@ -2,25 +2,22 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://somethingwhenever.com/tags/album/</loc><lastmod>2023-02-02T21:25:17-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://somethingwhenever.com/series/album-talk/</loc><lastmod>2023-02-02T21:25:17-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://somethingwhenever.com/authors/andrew/</loc><lastmod>2023-02-02T21:25:17-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://somethingwhenever.com/authors/</loc><lastmod>2023-02-02T21:25:17-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://somethingwhenever.com/categories/</loc><lastmod>2023-02-02T21:25:17-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://somethingwhenever.com/tags/dan-campbell/</loc><lastmod>2023-02-02T21:25:17-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://somethingwhenever.com/categories/musical-thoughts/</loc><lastmod>2023-02-02T21:25:17-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://somethingwhenever.com/otherpeopleslives/</loc><lastmod>2023-02-02T21:25:17-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://somethingwhenever.com/posts/</loc><lastmod>2023-02-02T21:25:17-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://somethingwhenever.com/series/</loc><lastmod>2023-02-02T21:25:17-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://somethingwhenever.com/</loc><lastmod>2023-02-02T21:25:17-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://somethingwhenever.com/tags/songwriting/</loc><lastmod>2023-02-02T21:25:17-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://somethingwhenever.com/tags/soupy/</loc><lastmod>2023-02-02T21:25:17-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://somethingwhenever.com/tags/</loc><lastmod>2023-02-02T21:25:17-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://somethingwhenever.com/tags/writing/</loc><lastmod>2023-02-02T21:25:17-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://somethingwhenever.com/categories/announcements/</loc><lastmod>2023-02-02T00:41:02-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://somethingwhenever.com/tags/coding/</loc><lastmod>2023-02-02T00:41:02-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://somethingwhenever.com/tags/diy/</loc><lastmod>2023-02-02T00:41:02-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://somethingwhenever.com/intro/</loc><lastmod>2023-02-02T00:41:02-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://somethingwhenever.com/tags/updates/</loc><lastmod>2023-02-02T00:41:02-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://somethingwhenever.com/tags/website/</loc><lastmod>2023-02-02T00:41:02-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://somethingwhenever.com/series/website-history/</loc><lastmod>2023-02-02T00:41:02-08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2025-05-30T04:24:04&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2025-05-30T04:24:04&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/authors/andrew/</loc><lastmod>2023-02-04T20:35:19-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/categories/announcements/</loc><lastmod>2023-02-04T20:35:19-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/authors/</loc><lastmod>2023-02-04T20:35:19-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/categories/</loc><lastmod>2023-02-04T20:35:19-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/tags/email-alerts/</loc><lastmod>2023-02-04T20:35:19-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/tags/rss/</loc><lastmod>2023-02-04T20:35:19-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/series/</loc><lastmod>2023-02-04T20:35:19-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/tags/subscribe/</loc><lastmod>2023-02-04T20:35:19-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/rsssubscribe/</loc><lastmod>2023-02-04T20:35:19-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/tags/</loc><lastmod>2023-02-04T20:35:19-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/tags/tutorial/</loc><lastmod>2023-02-04T20:35:19-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/series/website-history/</loc><lastmod>2023-02-04T20:35:19-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/tags/coding/</loc><lastmod>2023-02-02T00:41:02-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/tags/diy/</loc><lastmod>2023-02-02T00:41:02-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/intro/</loc><lastmod>2023-02-02T00:41:02-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/tags/updates/</loc><lastmod>2023-02-02T00:41:02-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/tags/website/</loc><lastmod>2023-02-02T00:41:02-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
