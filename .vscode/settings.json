@@ -3,5 +3,18 @@
         "activityBar.background": "#400D77",
         "titleBar.activeBackground": "#5912A6",
         "titleBar.activeForeground": "#FDFBFF"
+    },
+    "[markdown]": {
+        "editor.fontSize": 14,
+        "editor.lineHeight": 26,
+        "editor.wordWrap": "wordWrapColumn",
+        "editor.wordWrapColumn": 64,
+        "editor.lineNumbers": "off",
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "off"
+        },
+        "editor.minimap.enabled": false
     }
 }

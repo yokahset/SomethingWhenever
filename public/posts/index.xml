@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - Something Whenever</title>
-        <link>https://somethingwhenever.com/posts/</link>
+        <link>http://localhost:1313/posts/</link>
         <description>All Posts | Something Whenever</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Andrew@somethingwhenever.com (Andrew)</managingEditor>
-            <webMaster>Andrew@somethingwhenever.com (Andrew)</webMaster><lastBuildDate>Thu, 02 Feb 2023 21:25:17 -0800</lastBuildDate><atom:link href="https://somethingwhenever.com/posts/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>Andrew@somethingwhenever.com (Andrew)</webMaster><lastBuildDate>Fri, 30 May 2025 04:24:04 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /></channel>
 </rss>

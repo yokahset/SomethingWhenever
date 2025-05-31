@@ -1,15 +1,26 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Announcements - Category - Something Whenever</title>
-        <link>https://somethingwhenever.com/categories/announcements/</link>
-        <description>Announcements - Category - Something Whenever</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Andrew@somethingwhenever.com (Andrew)</managingEditor>
-            <webMaster>Andrew@somethingwhenever.com (Andrew)</webMaster><lastBuildDate>Thu, 02 Feb 2023 00:41:02 -0800</lastBuildDate><atom:link href="https://somethingwhenever.com/categories/announcements/" rel="self" type="application/rss+xml" /><item>
-    <title>Something, Whenever.</title>
-    <link>https://somethingwhenever.com/intro/</link>
-    <pubDate>Thu, 02 Feb 2023 00:41:02 -0800</pubDate><author>
-                        Andrew
-                    </author><guid>https://somethingwhenever.com/intro/</guid>
-    <description><![CDATA[A website full of content whenever I feel like adding more. C&rsquo;mon in, let me tell you about it!]]></description>
-</item></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Announcements on Something Whenever</title>
+    <link>http://localhost:1313/categories/announcements/</link>
+    <description>Recent content in Announcements on Something Whenever</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 04 Feb 2023 20:35:19 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/announcements/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Subscribe to the Website with RSS</title>
+      <link>http://localhost:1313/rsssubscribe/</link>
+      <pubDate>Sat, 04 Feb 2023 20:35:19 -0800</pubDate>
+      <guid>http://localhost:1313/rsssubscribe/</guid>
+      <description>Checking a website to see if there&amp;rsquo;s something new is silly. Get notified when we post by subscribing to our RSS feed, or signing up for email alerts. We&amp;rsquo;ll show you how!</description>
+    </item>
+    <item>
+      <title>Something, Whenever.</title>
+      <link>http://localhost:1313/intro/</link>
+      <pubDate>Thu, 02 Feb 2023 00:41:02 -0800</pubDate>
+      <guid>http://localhost:1313/intro/</guid>
+      <description>A website full of content whenever I feel like adding more. C&amp;rsquo;mon in, let me tell you about it!</description>
+    </item>
+  </channel>
 </rss>
