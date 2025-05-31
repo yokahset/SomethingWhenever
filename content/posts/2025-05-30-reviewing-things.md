@@ -8,7 +8,8 @@ tags:
     - Review
     - Writing
     - books
-categories: []
+categories:
+    - Reviews
 slug: reviewing
 ---
 # How was that?
