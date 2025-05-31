@@ -11,6 +11,8 @@ tags:
 categories:
     - Reviews
 slug: reviewing
+featuredImage: "/media/Reviewing things.jpg"
+featuredImagePreview: "/media/Reviewing things.jpg"
 ---
 # How was that?
 
